@@ -1,6 +1,6 @@
 # LAPORAN PRAKTIKUM PEMROGRAMAN WEB
 ## MODUL 1: DASAR-DASAR HTML
-
+Repository ini dibuat untuk memenuhi tugas Praktikum 1 - HTML Dasar pada mata kuliah Pemrograman Web
 ---
 
 ### IDENTITAS MAHASISWA
@@ -25,6 +25,7 @@
    - Validator: W3C Markup Validation Service
 
 ---
+
 
 ## III. STRUKTUR DIREKTORI PROYEK
 
