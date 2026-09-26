@@ -93,6 +93,7 @@ Menambahkan judul utama dengan `<h1>`, subjudul dengan `<h2>`, serta teks paragr
 ```
 
 **Screenshot Hasil:**  
+<img width="959" height="269" alt="Screenshot 2026-09-26 212516" src="https://github.com/user-attachments/assets/8ebece7b-3148-4f15-9749-078999cad5d1" />
 
 
 ---
@@ -109,6 +110,8 @@ Mencoba berbagai tag pemformatan teks di HTML, seperti cetak tebal (`<b>`, `<str
 ```
 
 **Screenshot Hasil:**  
+<img width="953" height="173" alt="Screenshot 2026-09-26 212610" src="https://github.com/user-attachments/assets/dd4fca0d-a869-4ca7-bd28-be8bb9a82fa5" />
+
 
 ---
 
@@ -121,7 +124,7 @@ Menyimpan file foto di folder `images/profil.jpg`, kemudian menampilkannya mengg
 ```
 
 **Screenshot Hasil:**  
-
+<img width="959" height="433" alt="Screenshot 2026-09-26 212542" src="https://github.com/user-attachments/assets/1a6e4509-ca84-4f85-b107-8c4837455725" />
 
 ---
 
@@ -146,7 +149,7 @@ Potongan kode navigasi:
 ```
 
 **Screenshot Hasil:**  
-
+<img width="959" height="287" alt="Screenshot 2026-09-26 215105" src="https://github.com/user-attachments/assets/4d82b7a0-9379-4f6c-a50d-a8807b9cb6ff" />
 
 ---
 
@@ -173,7 +176,7 @@ Mengelompokkan data menggunakan list:
 ```
 
 **Screenshot Hasil:**  
-
+<img width="959" height="255" alt="Screenshot 2026-09-26 212701" src="https://github.com/user-attachments/assets/86f2251c-bd2a-47ea-b6ad-1ef394dc8060" />
 
 ---
 
@@ -276,7 +279,7 @@ Isi lengkap `index.html`:
 ```
 
 **Screenshot Halaman Profil Mahasiswa:**  
-
+<img width="959" height="433" alt="Screenshot 2026-09-26 212542" src="https://github.com/user-attachments/assets/f17405cc-5d8d-4eda-a3e3-da14a3ca828c" />
 
 ---
 
@@ -293,6 +296,7 @@ File `index.html` dan `halaman2.html` dibuka melalui browser untuk memastikan:
 Kode dicek melalui layanan resmi [W3C Markup Validation](http://validator.w3.org) untuk memastikan struktur dokumen sudah sesuai standar HTML5 dan tidak memiliki error sintaks.
 
 **Screenshot Validasi W3C:**  
+<img width="956" height="368" alt="Screenshot 2026-09-26 214658" src="https://github.com/user-attachments/assets/4e2e2108-1d97-4121-87ae-496920cea8e2" />
 
 
 ---
